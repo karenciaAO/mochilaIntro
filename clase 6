@@ -1,0 +1,13 @@
+CLASE 6 
+
+git init crea un repositorio de manera loca
+lgit add (nombre achivo) agrega un archivo especifico al repositorio 
+git add . agrega todos los archivos que se encuentran en la carpeta donde se inicio el repositorio 
+git status muestra el estado del repositorio, cuales archivos seran agregados 
+git commit -m "mensaje para identificar el commit" confirma la creacion del repositorio 
+git log muestra los cambios del repositorio, los commits 
+git push origin envia los cambios al repositorio remoto, a GitHub 
+git pull origin para enviar un archivo que se encuentra en GitHub a la terminal local 
+git clone "url" se usa cuan se baja el archivo de GitHub por primera vez 
+git branch (mas nombre) se utiliza para crear una nueva rama 
+git chackout (nombre del folder) te mueve a un folder diferente
