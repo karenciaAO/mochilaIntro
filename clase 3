@@ -1,0 +1,63 @@
+CLASE 3 
+mkdir "Peliculas"
+mkdir peliculas/infantiles peliculas/accion peliculas/terror peliculas/comedia peliculas/romanticas
+touch infantiles/intenzamentente.txt infantiles/"el juego del miedo".xls infantiles/"rapido y furioso".pdf infantiles/titanic.jpg
+ touch accion/"smooth criminal".txt accion/"diario de una pasion".js accion/"el hexorcista".xls accion/cars.jpg
+ touch terror/"la dama y el bagavundo".png terror/"yo antes de ti".xls terror/"que paso ayer".pdf  terror/ "we will rock you".js
+ touch comedia/madagaskar.js comedia/"orgullo y prejuicio".txt comedia/IT.xls comedia/"mision imposible".png
+ touch romanticas/pocahontas.jpg romanticas/annabelle.js romanticas/"los vengadores".js romanticas/"la mascara".js
+ ls -r
+terror/  romanticas/  infantiles/  comedia/  accion/
+ se pueden crear las carpetas en un solo comando
+mkdir peliculas/infantiles peliculas/accion peliculas/terror peliculas/comedia peliculas/romanticas
+ se pueden crear  archivos en un solo comando
+touch accion/"smooth criminal".txt accion/"diario de una pasion".js accion/"el hexorcista".xls accion/cars.jpg
+ mkdir peliculas/romanticas/prueba
+mkdir ../accion/prueba2
+   	
+
+ 
+2.  moniv@MOMI MINGW64 ~/OneDrive/Desktop/DH/introalainfor/dh/peliculas/accion (main)
+$ mv Cars.jpg C:^Csers\moniv\OneDrive/
+$ mv Cars.jpg C:^Csers\moniv\OneDrive/ 
+                                    	moniv@MOMI MINGW6sktop/dh/introalainfor/dh/peliculas/infantiles/
+moniv@MOMI MINGW64 ~/OneDrive/Desktop/DH/introalainfor/dh/peliculas/accion (main)
+$ mv diario\ de\ una\ pasion.js "Diario de una Pasion".js
+ 
+ 
+moniv@MOMI MINGW64 ~/OneDrive/Desktop/DH/introalainfor/dh/peliculas/accion (main)
+$ mv Diario\ de\ una\ Pasion.js c:/users/moniv/onedrive/desktop/dh/introalainfor/dh/peliculas/romanticas/
+ 
+moniv@MOMI MINGW64 ~/OneDrive/Desktop/DH/introalainfor/dh/peliculas/accion (main)
+$ mv smooth\ criminal.txt "Smooth Criminal".txt
+ 
+moniv@MOMI MINGW64 ~/OneDrive/Desktop/DH/introalainfor/dh/peliculas/accion (main)
+1.  moniv@MOMI MINGW64 ~/OneDrive/Desktop/dh/introalainfor/dh (main)
+$ mkdir "Peliculas"
+ 
+2.  $ mkdir peliculas/infantiles peliculas/accion peliculas/terror peliculas/comedia peliculas/romanticas
+ 
+3.  moniv@MOMI MINGW64 ~/OneDrive/Desktop/dh/introalainfor/dh/peliculas (main)
+$ touch infantiles/intenzamentente.txt infantiles/"el juego del miedo".xls infantiles/"rapido y furioso".pdf infantiles/titanic.jpg
+ 
+4.  $ touch accion/"smooth criminal".txt accion/"diario de una pasion".js accion/"el hexorcista".xls accion/cars.jpg
+ 
+5.  $ touch terror/"la dama y el bagavundo".png terror/"yo antes de ti".xls terror/"que paso ayer".pdf  terror/ "we will rock you".js
+ 
+6.  $ touch comedia/madagaskar.js comedia/"orgullo y prejuicio".txt comedia/IT.xls comedia/"mision imposible".png
+ 
+7.  $ touch romanticas/pocahontas.jpg romanticas/annabelle.js romanticas/"los vengadores".js romanticas/"la mascara".js
+ 
+8.  $ ls -r
+terror/  romanticas/  infantiles/  comedia/  accion/
+ 
+9.  -si se pueden crear las carpetas del punto 2 en un solo comando
+mkdir peliculas/infantiles peliculas/accion peliculas/terror peliculas/comedia peliculas/romanticas
+ 
+-si, se pueden crear los archivos del punto 3 en un solo comando
+touch accion/"smooth criminal".txt accion/"diario de una pasion".js accion/"el hexorcista".xls accion/cars.jpg
+ 
+-$ mkdir peliculas/romanticas/prueba
+ 
+-	moniv@MOMI MINGW64 ~/OneDrive/Desktop/dh/introalainfor/dh/peliculas/romanticas (main)
+$ mkdir ../accion/prueba2
